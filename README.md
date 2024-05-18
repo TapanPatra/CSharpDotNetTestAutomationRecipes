@@ -24,8 +24,6 @@
 
 - [ApprovalTest](#ApprovalTest) 
 
-- [BCL](#BCL) 
-
 - [WorkingWithFiles](#WorkingWithFiles)
 
 - [Collections](#Collections)
@@ -52,7 +50,7 @@
 
 - [RegularExpression](#RegularExpression)
 
-- [Reflection](#Reflection
+- [Reflection](#Reflection)
 
 - [DotNetDiagnostics](#DotNetDiagnostics)
 
