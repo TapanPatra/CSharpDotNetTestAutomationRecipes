@@ -1,66 +1,66 @@
 # C#.NET Test Automation Recipes
 
-- [NUnit] (#NUnit)
+- [NUnit](#NUnit)
 
-- [MicrosoftUIAutomation] (#MicrosoftUIAutomation)
+- [MicrosoftUIAutomation](#MicrosoftUIAutomation)
 
-- [Selenium] (#Selenium) 
+- [Selenium](#Selenium) 
 
-- [RestSharp] (#RestSharp)
+- [RestSharp](#RestSharp)
 
-- [Playwright] (#Playwright)
+- [Playwright](#Playwright)
 
-- [Appilotool] (#Appilotool)
+- [Appilotool](#Appilotool)
 
-- [TestProject] (#TestProject)
+- [TestProject](#TestProject)
 
-- [Moq] (#Moq)
+- [Moq](#Moq)
 
-- [Specflow] (#Specflow)
+- [Specflow](#Specflow)
 
-- [Appium] (#Appium)
+- [Appium](#Appium)
 
-- [ExtentReports (#ExtentReports)
+- [ExtentReports](#ExtentReports)
 
-- [ApprovalTest] (#ApprovalTest) 
+- [ApprovalTest](#ApprovalTest) 
 
-- [BCL] (#BCL) 
+- [BCL](#BCL) 
 
-- [WorkingWithFiles] (#WorkingWithFiles)
+- [WorkingWithFiles](#WorkingWithFiles)
 
-- [Collections] (#Collections)
+- [Collections](#Collections)
 
-- [LINQ] (#LINQ)
+- [LINQ](#LINQ)
 
-- [ProxyMechanism] (#ProxyMechanism)
+- [ProxyMechanism](#ProxyMechanism)
 
-- [WCF] (#WCF)
+- [WCF](#WCF)
 
-- [SOAP] (#SOAP)
+- [SOAP](#SOAP)
 
-- [HTTP] (#HTTP)
+- [HTTP](#HTTP)
 
-- [TcpClient] (#TcpClient)
+- [TcpClient](#TcpClient)
 
-- [ADODotNET] (#ADODotNET)
+- [ADODotNET](#ADODotNET)
 
-- [XML] (#XML) 
+- [XML](#XML) 
 
-- [Serialization] (#Serialization)
+- [Serialization](#Serialization)
 
-- [Json] (#Json)
+- [Json](#Json)
 
-- [RegularExpression] (#RegularExpression)
+- [RegularExpression](#RegularExpression)
 
-- [Reflection] (#Reflection)
+- [Reflection](#Reflection
 
-- [DotNetDiagnostics] (#DotNetDiagnostics)
+- [DotNetDiagnostics](#DotNetDiagnostics)
 
-- [AsyncAndwait] (#AsyncAndwait)
+- [AsyncAndwait](#AsyncAndwait)
 
-- [DateAndTimes] (#DateAndTimes)
+- [DateAndTimes](#DateAndTimes)
 
-- [ConfigurableApplications] (#ConfigurableApplications)
+- [ConfigurableApplications](#ConfigurableApplications)
 
 # C#.NET Test Automation Recipes
 
