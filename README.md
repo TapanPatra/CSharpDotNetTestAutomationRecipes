@@ -180,6 +180,11 @@ public class RocketFuelTests
 ## MicrosoftUIAutomation
 
 ## Selenium 
+### Learning Resource 
+- [Most Complete Selenium WebDriver C# Cheat Sheet](https://www.automatetheplanet.com/wp-content/uploads/2017/02/MostCompleteWebDriverCSharpCheetSheet.pdf)
+- [Intro to Selenium WebDriver with .NET Core by Test Automation University](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/)
+- [Web Element Locator Strategies](https://testautomationu.applitools.com/web-element-locator-strategies/)
+- [Udemy Selenium WebDriver Masterclass with C#](https://www.udemy.com/course/selenium-with-c/)
 
 ## RestSharp
 
